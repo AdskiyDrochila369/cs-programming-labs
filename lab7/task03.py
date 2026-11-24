@@ -3,4 +3,4 @@ number = int(input())
 
 indexed = [index for index, element in enumerate(elements) if element == number]
 
-print(f"Индексы:{indexed}")
+print(f"Индексы: {indexed}")
